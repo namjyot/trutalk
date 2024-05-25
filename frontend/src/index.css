@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Countryside';
+    src: url('assets/countryside.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.logo-font{
+    font-family: 'Countryside';
+    font-weight: 900;
+    font-size: xx-large;
+}
+.logo-font-2{
+    font-family: 'Countryside';
+    font-weight: 900;
+    font-size: x-large;
+}
