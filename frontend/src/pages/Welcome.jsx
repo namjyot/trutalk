@@ -87,7 +87,7 @@ const Welcome = () => {
                   3000, // Waits 3s
                   "Truth be told, it's Trutalk time.",
                   3000, // Waits 3s
-                  "Made with ❤️ by The Boys.",
+                  "Made with ❤️ by Namjyot",
                   3000, // Waits 3s
                   () => {
                     console.log("Sequence completed");
